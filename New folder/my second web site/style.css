@@ -1,0 +1,41 @@
+ 
+
+ #{ 
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       background-color :green;
+}
+#css{
+color: chartreuse;
+}
+
+#ami{
+    color:rgb(250, 11, 119);
+}
+    .friend{
+   background-color:red;
+
+}
+     h3{
+    color:aqua;
+}
+     h4 {  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color:rgba(231, 214, 29, 0.895);
+                     }
+  img{
+ width:800px;
+ height: 500px;
+}
+.mass{
+background-color: darkorange;
+width: 60%;
+}
+.mass{
+border: 3px papayawhip solid;
+border-radius :25px ;
+margin-left : 10px ;
+padding:  30px 25px;
+
+}
+ 
